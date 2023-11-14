@@ -19,7 +19,7 @@
     $qnama = mysqli_query($konek, "SELECT nama FROM tbl_siswa");
     ?>
     <div class="container">
-        <h3>Data Siswa</h3>
+        <h3>Data Siswa Kelas XII RPL</h3>
         <a href="form_tambah.php" class="btn btn-success mb-3">Tambah</a>
         <form method="get" action="#">
             <label>Input Nama :</label>

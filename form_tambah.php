@@ -8,7 +8,7 @@
 
 <body>
     <div class="container">
-        <h3>Form Tambah Siswa</h3>
+        <h3>Form Tambah Siswa Kelas XII</h3>
         <form method="post" action="#">
             <div class="mb-3">
                 <label class="form-label">NISN</label>
